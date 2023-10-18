@@ -1,6 +1,6 @@
 # Hey there! 👋
 ## About
-My name is Matěj Emmer. I'm an IT high school student and junior software developer based in Czechia :czech_republic:, mainly focusing on full-stack web development. I'm still learning and exploring the industry. I'm also very much interested in 3D graphics, game development, and space exploration 🚀 (my biggest goal is probably to be part of a big space project such as Starship development). As far as my hobbies go, I like to build and fly FPV drones in my local area. If you want to hang out, discuss work, or go flying FPV, don't be afraid to contact me using the links below!
+My name is Matěj Emmer. I'm an IT high school student and junior software developer based in Czechia :czech_republic:, mainly focusing on full-stack web development. I'm still learning and exploring the industry. I'm also very much interested in 3D graphics, game development, and space exploration 🚀 (my biggest goal in life is probably to be part of a big space project such as Starship development). As far as my hobbies go, I like to build and fly FPV drones in my local area. If you want to hang out, discuss work, or go flying FPV, don't be afraid to contact me using the links below!
 
 ## Tech Stack
 
