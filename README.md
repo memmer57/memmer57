@@ -37,4 +37,3 @@ Don't be affraid to message me:
 
 - Email: [matej.emmer@gmail.com](mailto:matej.emmer@gmail.com)
 - LinkedIn: [Matěj Emmer](https://www.linkedin.com/in/matej-emmer/)
-- Instagram: [memmer57](https://www.instagram.com/memmer57/)
