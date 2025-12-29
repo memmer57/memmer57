@@ -1,6 +1,4 @@
 # Hey there! 👋
-## About
-Hello, I'm Memmer. I'm an uni student and junior software developer based in Czechia :czech_republic:, mainly focusing on full-stack web development. I'm also very much interested in 3D graphics, game development, and space exploration 🚀. Oh, and I really like to go out and fly FPV drones!
 
 ## Tech Stack
 
